@@ -1,7 +1,3 @@
-Certainly! Let's complete the README.md file with examples of overlay, extension, library, and user documentation:
-
----
-
 # RAML API Specification
 
 ## Specification
