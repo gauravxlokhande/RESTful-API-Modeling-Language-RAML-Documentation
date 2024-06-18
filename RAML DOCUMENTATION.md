@@ -330,8 +330,4 @@ content:
         }
       ]
       ```
-```
 
----
-
-This structured format ensures clarity and easy navigation of your RAML API specification when viewed on GitHub or any markdown viewer. Adjustments can be made based on your specific API details and requirements.
